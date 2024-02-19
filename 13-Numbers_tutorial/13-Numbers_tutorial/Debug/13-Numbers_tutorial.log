@@ -1,0 +1,3 @@
+﻿  13-Numbers_tutorial.cpp
+D:\E-Learning\Mohamed\C++ - tutorialpoint\13-Numbers_tutorial\13-Numbers_tutorial\13-Numbers_tutorial.cpp(13,12): warning C4305: '=': truncation from 'double' to 'float'
+  13-Numbers_tutorial.vcxproj -> D:\E-Learning\Mohamed\C++ - tutorialpoint\13-Numbers_tutorial\Debug\13-Numbers_tutorial.exe

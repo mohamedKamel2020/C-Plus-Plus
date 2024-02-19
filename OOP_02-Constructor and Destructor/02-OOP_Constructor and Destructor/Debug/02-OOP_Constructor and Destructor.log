@@ -1,0 +1,3 @@
+﻿  02-OOP_Constructor and Destructor.cpp
+D:\E-Learning\Mohamed\C++ - tutorialpoint\02-OOP_Constructor and Destructor\02-OOP_Constructor and Destructor\02-OOP_Constructor and Destructor.cpp(57,5): error C2084: function 'int main(void)' already has a body
+D:\E-Learning\Mohamed\C++ - tutorialpoint\02-OOP_Constructor and Destructor\02-OOP_Constructor and Destructor\02-OOP_Constructor and Destructor.cpp(25): message : see previous definition of 'main'
